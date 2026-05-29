@@ -3,4 +3,10 @@
     max-width: 210mm;
     margin: 0 auto;
     text-align: justify;
+    background-color: rgb(255, 255, 255);
+}
+
+.author-photo {
+    max-height: 16rem;
+    max-width: 12rem;
 }
